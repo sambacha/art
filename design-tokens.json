@@ -1,0 +1,74 @@
+{
+  "style": {
+    "color": {
+      "Gray1": {
+        "type": "SOLID",
+        "value": "#333333"
+      },
+      "Gray2": {
+        "type": "SOLID",
+        "value": "#4f4f4f"
+      },
+      "Gray3": {
+        "type": "SOLID",
+        "value": "#828282"
+      },
+      "Gray4": {
+        "type": "SOLID",
+        "value": "#bdbdbd"
+      },
+      "Gray5": {
+        "type": "SOLID",
+        "value": "#e0e0e0"
+      },
+      "Gray6": {
+        "type": "SOLID",
+        "value": "#f2f2f2"
+      },
+      "Red": {
+        "type": "SOLID",
+        "value": "#eb5757"
+      },
+      "Orange": {
+        "type": "SOLID",
+        "value": "#f2994a"
+      },
+      "Yellow": {
+        "type": "SOLID",
+        "value": "#f2c94c"
+      },
+      "Green1": {
+        "type": "SOLID",
+        "value": "#219653"
+      },
+      "Green2": {
+        "type": "SOLID",
+        "value": "#27ae60"
+      },
+      "Green3": {
+        "type": "SOLID",
+        "value": "#6fcf97"
+      },
+      "Blue1": {
+        "type": "SOLID",
+        "value": "#2f80ed"
+      },
+      "Blue2": {
+        "type": "SOLID",
+        "value": "#2d9cdb"
+      },
+      "Blue3": {
+        "type": "SOLID",
+        "value": "#56ccf2"
+      },
+      "Purple1": {
+        "type": "SOLID",
+        "value": "#9b51e0"
+      },
+      "Purple2": {
+        "type": "SOLID",
+        "value": "#bb6bd9"
+      }
+    }
+  }
+}
