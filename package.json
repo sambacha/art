@@ -1,0 +1,33 @@
+{
+  "name": "sushiswap-art",
+  "version": "0.1.0",
+  "description": "sushiswap brand assets",
+  "main": "index.js",
+  "scripts": {
+    "test": "svgjest"
+    "optimize": "svgo --config=.svgo.yml",
+    "lint:svg": "svglint src/**/*.svg",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambacha/art.git"
+  },
+  "keywords": [
+    "sushiswap",
+    "ethereum",
+    "blockchain"
+  ],
+  "author": "see contributors",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/sambacha/art/issues"
+  },
+  "homepage": "https://github.com/sambacha/art#readme",
+  "devDependencies": {
+    "@svgr/webpack": "^5.5.0",
+    "jest": "^26.6.3",
+    "svg-jest": "^1.0.1",
+    "svglint": "^1.0.7",
+    "svgo": "^2.0.3"
+  }
+}
