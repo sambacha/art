@@ -1,3 +1,12 @@
-# Art
+<div align="center">
 
-This repository contains branding assets for SushiSwap.
+![](./.github/logo.png)
+
+# SushiSwap Branding Assets
+
+</div>
+
+
+## License 
+
+MIT
